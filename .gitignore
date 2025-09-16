@@ -1,0 +1,27 @@
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Test artifacts
+/tmp/
+TestDrive*/
+
+# PowerShell specific
+*.ps1xml
+*.psc1
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Pester test results
+TestResults.xml
+coverage.xml
+
+# Example logs
+Examples/*.log
